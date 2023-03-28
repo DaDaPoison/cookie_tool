@@ -1,5 +1,5 @@
 # Cookie tool
-## Ultimate cookie tool, that's work everywhere(i hope so)
+## Ultimate cookie tool for python+selenium, that's work everywhere(i hope so) 
 ### Description:
 Sometimes basic selenium methods of working with cookies don't work. Because selenium can't use cookie, if it's domain is not similar with page, where cookies are used.
 So you have to use JavaScript by webdriver.execute_script. Sometimes it is hard for newbies (like me) or just not very comfortable. So i made a script, that saves different cookies in different files
